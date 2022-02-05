@@ -1,0 +1,7 @@
+# Obsidian Ignore Files
+.obsidian/cache
+.obsidian/workspace
+.trash/
+
+# MacOS System Files
+.DS_Store
